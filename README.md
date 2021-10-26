@@ -7,4 +7,4 @@ Manage MEO FiberGateway router
 - [ ] Black/Whitelist devices
 - [ ] ...
 
-(help)[https://forum.meo.pt/internet-fixa-e-movel-11/fibergateway-como-remover-uma-entrada-e-lan-dispositivos-137360#post148382]
+[help](https://forum.meo.pt/internet-fixa-e-movel-11/fibergateway-como-remover-uma-entrada-e-lan-dispositivos-137360#post148382)
